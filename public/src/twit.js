@@ -3,9 +3,6 @@
 // Sidebar displays info for current user
 // Timeline displays most recent commits for user
 
-// Data flow:
-// 
-
 var SearchBox = React.createClass({
     getInitialState: function() {
         return { 
